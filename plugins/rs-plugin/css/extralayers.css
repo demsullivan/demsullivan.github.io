@@ -18,6 +18,9 @@
 
 
 
+.tp-caption.nobold {
+    font-weight: 300 !important;
+}
 
 .tp-caption.medium_grey {
 position:absolute;

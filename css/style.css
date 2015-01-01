@@ -664,8 +664,14 @@ tbody {
 .parallax-bg-2 {
 	background: url("../images/parallax-bg-2.jpg") 50% 0px no-repeat;
 }
+/*
 .parallax-bg-3 {
 	background: url("../images/parallax-bg-3.jpg") 50% 0px no-repeat;
+}
+*/
+
+.parallax-bg-3 {
+    background: url("http://thumb7.shutterstock.com/display_pic_with_logo/553555/130285649/stock-photo-digital-perspectives-series-abstract-design-made-of-numbers-light-grids-and-fractal-elements-on-130285649.jpg") 50% 0px no-repeat;
 }
 
 /* Custom Grid
