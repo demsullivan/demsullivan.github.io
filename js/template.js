@@ -287,7 +287,7 @@
 			});
 			$(".owl-carousel.content-slider").owlCarousel({
 				singleItem: true,
-				autoPlay: 5000,
+				autoPlay: 12500,
 				navigation: false,
 				navigationText: false,
 				pagination: false
@@ -301,10 +301,10 @@
 			});
 			$(".owl-carousel.content-slider-with-controls-autoplay").owlCarousel({
 				singleItem: true,
-				autoPlay: 5000,
+				autoPlay: 125000,
 				navigation: true,
 				navigationText: false,
-				pagination: true
+				pagination: false
 			});
 			$(".owl-carousel.content-slider-with-controls-bottom").owlCarousel({
 				singleItem: true,

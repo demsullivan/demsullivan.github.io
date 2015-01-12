@@ -36,3 +36,11 @@ File Description: Place here your custom CSS styles
 #services h1 {
     margin-top: 50px;
 }
+
+#about {
+    padding-bottom: 200px;
+}
+
+#portfolio {
+    margin-top: 50px;
+}
